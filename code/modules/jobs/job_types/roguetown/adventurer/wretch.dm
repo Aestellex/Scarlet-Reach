@@ -1,7 +1,7 @@
 // Wretch, soft antagonists. Giving them 9 points as stat (matching mercs) on average since they're a driving antagonist on AP or assistant antagonist. 
 /datum/job/roguetown/wretch
 	title = "Wretch"
-	flag = WRETCH.
+	flag = WRETCH
 	department_flag = PEASANTS
 	faction = "Station"
 	total_positions = 10
